@@ -5,3 +5,5 @@ const objArray = {
 };
 
 const randomNum = Math.floor(Math.random() * 4);
+
+let whatToDo = [];
