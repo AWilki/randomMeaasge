@@ -1,0 +1,6 @@
+Making a Random Message Machine
+tells you what the weather will be tomorrow, what you should wear, what you should do
+
+1. make an array of each statement
+2. make a random number generator to pick each of the statements
+3. output the full sentence of the statements
